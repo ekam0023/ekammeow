@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "MEOW — Chocolate, but with a little attitude.",
+      "hasCanvas": false,
+      "bodyTextLen": 2698,
+      "bodyTextHash": "823f2fdcbeca336888892e3656978aedc2ee134a61691e04e95e9fd2eee3ac66",
+      "bodyTextPrefix": "Skip to story MEOW MEOW™ THE BAR STORY FLAVORS SHOP ABOUT CART0 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "MEOW — Chocolate, but with a little attitude.",
+      "hasCanvas": false,
+      "bodyTextLen": 2541,
+      "bodyTextHash": "a6f5ca65694fc2065b8c31bd2cbb40182453362752e7e8c75af8e72d24a02781",
+      "bodyTextPrefix": "Skip to story MEOW MEOW™ CART0 EST. FOR CRAVINGS MEOW CHOCOLATE,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
