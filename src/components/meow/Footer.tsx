@@ -1,5 +1,6 @@
 import { Instagram, Music2 } from "lucide-react";
 import { useLenis } from "@/components/meow/SmoothScroll";
+import { NewsletterSignup } from "@/components/meow/NewsletterSignup";
 
 const LINKS = [
   { href: "#shop", label: "SHOP" },
@@ -31,6 +32,7 @@ export function Footer() {
             Chocolate for the curious.
           </p>
         </div>
+        <NewsletterSignup />
         <nav className="flex flex-wrap gap-x-6 gap-y-3" aria-label="Footer">
           {LINKS.map((link) => (
             <a
